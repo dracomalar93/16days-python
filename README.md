@@ -1,6 +1,6 @@
-# ztm-web-dev
+# 16days-python
 
-Projects and Exercises for Zero to Mastery Academy Web Developer Course
+16 Days from Beginning to Advanced Python w/ 16 Projects
 
 # Important Bash Commands
 
