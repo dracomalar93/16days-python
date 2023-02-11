@@ -114,3 +114,31 @@ print(round(100/3))
 print(round(12/7,2))
 
 > > 1.71
+
+
+# Quiz questions I got wrong
+
+Question 2:
+Sets can contain duplicate values.
+
+> True
+
+Question 5:
+Given a variable called num1, with a value of 13.87:
+
+num1 = 13.87
+
+The following lines in Python would return the same result:
+
+print(round(num1))
+
+print(int(num1))
+
+> False - round() rounds to the nearest integer (14), while int keeps the integer part of the value (13), so the results are not going to be equal
+
+Question 6:
+What type is the value of the variable num1?
+
+num1 = round(13/2,0)
+
+> Since the rounded value is of type float and ndigits=0, the result is also a float
